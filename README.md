@@ -6,7 +6,7 @@ P. F. Craigmile and P. Guttorp,
 
 Modeling and assessing climatic trends
 
-Revision submitted for review
+A chapter in A. Gelfand, M. Fuentes, J. Hoeting, and R. Smith (Eds.): Handbook of Environmental and Ecological Statistics, Chapman and Hall/CRC, New York: NY 
 
 Contact: pfc@stat.osu.edu
 
@@ -21,7 +21,7 @@ According to
 "Uncertainties represent the 95% confidence % interval for statistical
 and spatial undersampling effects as well as ocean biases."
 
-We recommended the uncertainty values by 1.96 to obtain the standard
+We recommended dividing the uncertainty values by 1.96 to obtain the standard
 error for the global mean temperatures.
 
 
